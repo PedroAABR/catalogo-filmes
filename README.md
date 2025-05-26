@@ -1,4 +1,4 @@
-# 🎬 Catálogo de Filmes — Projeto SQL Básico
+# 🎬 Catálogo de Filmes
 
 [![SQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Google Colab](https://img.shields.io/badge/Colab-Notebook-yellow?logo=googlecolab)](https://colab.research.google.com/)
