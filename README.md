@@ -79,3 +79,29 @@ sql-filmes-basico/
 ## 👨‍💻 Sobre o Autor
 #### Pedro Augusto Alves Brandão
 Aspirante a Cientista de Dados, apaixonado por transformar dados em decisões estratégicas.
+
+📫 [LinkedIn](https://www.linkedin.com/in/pedroaugustoabrandao/) | [GitHub](https://github.com/PedroAABR)
+
+## 📘 Acesse o notebook
+👉 [Catálogo de Filmes](https://colab.research.google.com/drive/1W_cGj3n7Rx-YZIDw2tVTtmnrQK50DpbY?usp=sharing)
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [`LICENSE`](./LICENSE) para mais detalhes.
+
+## 🔜 Próximos Passos
+
+- [ ] Aplicar filtros por múltiplos critérios (ex: ano + gênero)
+- [ ] Criar uma segunda tabela (ex: usuários ou avaliações)
+- [ ] Incluir JOIN entre tabelas simulando um mini-sistema de streaming
+- [ ] Implementar visualizações com dados extraídos do banco (via pandas/matplotlib)
+
+## 💻 Como Executar
+Clone este repositório:
+````
+git clone https://github.com/PedroAABR/sql-filmes.git
+````
+Instale as dependências (recomenda-se uso do Google Colab):
+
+- pip install pandas sqlalchemy psycopg2-binary
+
+Execute o notebook principal para reproduzir as consultas.
