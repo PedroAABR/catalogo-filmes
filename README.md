@@ -62,7 +62,7 @@ Base fictícia montada manualmente para fins educacionais com títulos de filmes
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-sql-filmes-basico/
+sql-filmes/
 ├── notebooks/                # Execução via Google Colab
 │   └── consultas_basicas.ipynb
 ├── scripts/
