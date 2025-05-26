@@ -96,12 +96,12 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [`LICENSE`](./L
 - [ ] Implementar visualizações com dados extraídos do banco (via pandas/matplotlib)
 
 ## 💻 Como Executar
-Clone este repositório:
+1. Clone este repositório:
 ````
 git clone https://github.com/PedroAABR/sql-filmes.git
 ````
-Instale as dependências (recomenda-se uso do Google Colab):
+2. Instale as dependências (recomenda-se uso do Google Colab):
 
 - pip install pandas sqlalchemy psycopg2-binary
 
-Execute o notebook principal para reproduzir as consultas.
+3. Execute o notebook principal para reproduzir as consultas.
