@@ -64,7 +64,7 @@ Base fictícia montada manualmente para fins educacionais com títulos de filmes
 ```plaintext
 sql-filmes/
 ├── notebooks/                # Execução via Google Colab
-│   └── consultas_basicas.ipynb
+│   └── consultas.ipynb
 ├── scripts/
 │   └── script_filmes.sql     # Criação e inserção da base
 ├── README.md                 # Documentação principal
